@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+body {
+  text-align: center;
+
+  }
+
+#featured-property p {
+  margin-left: 500px;
+  width: 800px;
+}
+#details {
+  background-color: red;
+  padding-top: 0px;
+  padding-bottom: 130px;
+
+  div{
+    float: left;
+    margin-left: 150px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+  }
+}
+
+
+
+
+
